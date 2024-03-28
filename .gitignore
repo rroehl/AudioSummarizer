@@ -1,0 +1,11 @@
+oldcode.txt
+teststuff/
+data/
+chroma_db/
+__pycache__/
+*.zip
+*.drawio
+.DS_Store
+**/.DS_Store
+deeplearning/
+example_results/
